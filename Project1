@@ -1,0 +1,7 @@
+Number1 = float(input("Metr: "))
+Number2 = 100
+a= Number1 Number2
+b 10000
+c=a* b
+print("Centimeter = ")
+print(a)
